@@ -8,7 +8,7 @@ A simple, repeatable workflow to run your projects without confusion, step by st
 
 4) python -m venv venv (to create virtual environment)
 
-5) venv\Scripts\activate (activate virtual environment)
+5) .\venv\Scripts\Activate (activate virtual environment)
    (we should see (venv) in terminal after above command)
 
 6) pip install fastapi/restapi uvicorn
